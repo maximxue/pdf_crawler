@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.py[cod]
+
+# python2.7 venv
+py27env
+
+_build/
+
+# Pycharm directory
+.idea
+
+# Sphinx docs:
+build
+
+# SQLite3 database files:
+*.db
+*.sqlite3
+*.sqlite
+
+# Logs:
+*.log
+
+# Environment variables
+*.env
+
+# Django stuff:
+*.mo
+*.pot
+
+# Mac
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
